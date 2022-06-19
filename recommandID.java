@@ -1,4 +1,4 @@
-public class recommand_id {
+public class recommandID {
 
     public static String solution(String new_id) {
         String answer = "";

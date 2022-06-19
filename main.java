@@ -1,7 +1,8 @@
 public class main {
     public static void main(String[] args) {
-        numberString ns = new numberString();
-        int result = ns.solution("zero123");
+        makePrimeNumber o = new makePrimeNumber();
+        int[] list = {1,2,3,4};
+        int result = o.solution(list);
         System.out.println(result);
     }
 }
